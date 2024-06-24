@@ -1,5 +1,7 @@
 # Scalable Data Storage Workshop
 
+![Workshop Banner](https://via.placeholder.com/1200x400?text=Scalable+Data+Storage+Workshop)
+
 Welcome to the Scalable Data Storage Workshop organized for the students at Maple College by Autonomous Vehiculum. This workshop aims to introduce you to scalable data storage solutions and their applications in self-driving car scenarios. Let's dive into the technologies that make scalable data storage possible and explore practical implementations.
 
 ## Table of Contents
@@ -39,12 +41,14 @@ In this workshop, you will learn about scalable data storage solutions and their
 ## Workshop Sections
 
 ### Introduction to Scalable Data Storage
+![Introduction](https://via.placeholder.com/800x400?text=Introduction+to+Scalable+Data+Storage)
 - **What is scalable data storage?**
   - Scalable data storage refers to systems and methods that allow data storage capacity to grow and manage large volumes of data efficiently. It ensures that performance remains stable even as data scales.
 - **Importance in autonomous vehicles**
   - Autonomous vehicles generate vast amounts of data from sensors, cameras, and other sources. Efficiently storing and managing this data is crucial for real-time processing and analysis.
 
 ### NoSQL Databases
+![NoSQL Databases](https://via.placeholder.com/800x400?text=NoSQL+Databases)
 - **Overview**
   - NoSQL databases provide a way to store and retrieve data that is modeled in means other than the tabular relations used in relational databases.
 - **Types of NoSQL databases**
@@ -58,6 +62,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Setting up MongoDB, inserting sample data, and running queries.
 
 ### Distributed File Systems
+![Distributed File Systems](https://via.placeholder.com/800x400?text=Distributed+File+Systems)
 - **Definition and explanation**
   - Distributed file systems allow multiple users to access and store files across a network as if they were on a local disk.
 - **Benefits for large-scale data storage**
@@ -69,6 +74,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Storing large volumes of video and sensor data for processing and analysis.
 
 ### Data Lakes
+![Data Lakes](https://via.placeholder.com/800x400?text=Data+Lakes)
 - **What is a data lake?**
   - A data lake is a centralized repository that allows you to store all your structured and unstructured data at any scale.
 - **Architecture of data lakes**
@@ -79,6 +85,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Collecting and storing diverse data types from various sources for advanced analytics and machine learning.
 
 ### Interactive Section
+![Interactive Section](https://via.placeholder.com/800x400?text=Interactive+Section)
 - **Activity 1: Setting up a NoSQL database**
   - **Instructions**: Follow the MongoDB installation guide.
   - **Sample Data**: Insert sample JSON data related to vehicle logs.
