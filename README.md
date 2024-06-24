@@ -1,6 +1,6 @@
 # Scalable Data Storage Workshop
 
-![Workshop Banner](https://via.placeholder.com/1200x400?text=Scalable+Data+Storage+Workshop)
+![Workshop Banner](/images/backup_and_data.png)
 
 Welcome to the Scalable Data Storage Workshop organized for the students at Maple College by Autonomous Vehiculum. This workshop aims to introduce you to scalable data storage solutions and their applications in self-driving car scenarios. Let's dive into the technologies that make scalable data storage possible and explore practical implementations.
 
