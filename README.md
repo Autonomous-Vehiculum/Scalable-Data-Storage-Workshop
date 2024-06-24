@@ -48,7 +48,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Autonomous vehicles generate vast amounts of data from sensors, cameras, and other sources. Efficiently storing and managing this data is crucial for real-time processing and analysis.
 
 ### NoSQL Databases
-![NoSQL Databases](https://via.placeholder.com/800x400?text=NoSQL+Databases)
+![NoSQL Databases](/images/Types-of-NoSQL-Databases.webp)
 - **Overview**
   - NoSQL databases provide a way to store and retrieve data that is modeled in means other than the tabular relations used in relational databases.
 - **Types of NoSQL databases**
