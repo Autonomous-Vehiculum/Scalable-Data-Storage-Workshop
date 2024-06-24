@@ -41,7 +41,7 @@ In this workshop, you will learn about scalable data storage solutions and their
 ## Workshop Sections
 
 ### Introduction to Scalable Data Storage
-![Introduction](https://via.placeholder.com/800x400?text=Introduction+to+Scalable+Data+Storage)
+![Introduction](/images/intro-scalable-storage.webp)
 - **What is scalable data storage?**
   - Scalable data storage refers to systems and methods that allow data storage capacity to grow and manage large volumes of data efficiently. It ensures that performance remains stable even as data scales.
 - **Importance in autonomous vehicles**
