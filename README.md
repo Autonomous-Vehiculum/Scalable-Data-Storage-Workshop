@@ -62,7 +62,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Setting up MongoDB, inserting sample data, and running queries.
 
 ### Distributed File Systems
-![Distributed File Systems](https://via.placeholder.com/800x400?text=Distributed+File+Systems)
+![Distributed File Systems](/images/distributed-file-system-diagram.png)
 - **Definition and explanation**
   - Distributed file systems allow multiple users to access and store files across a network as if they were on a local disk.
 - **Benefits for large-scale data storage**
