@@ -85,7 +85,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Protecting sensitive vehicle data, such as location information, sensor data, and personal information from unauthorized access.
 
 ### Interactive Section
-![Interactive Section](https://via.placeholder.com/800x400?text=Interactive+Section)
+![Interactive Section](/images/activity.jpeg)
 - **Activity 1: Setting up a NoSQL database**
   - **Instructions**: Follow the MongoDB installation guide.
   - **Sample Data**: Insert sample JSON data related to vehicle logs.
