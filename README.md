@@ -11,7 +11,7 @@ Welcome to the Scalable Data Storage Workshop organized for the students at Mapl
   - [Introduction to Scalable Data Storage](#introduction-to-scalable-data-storage)
   - [NoSQL Databases](#nosql-databases)
   - [Distributed File Systems](#distributed-file-systems)
-  - [Data Lakes](#data-lakes)
+  - [Data Leaks](#data-leaks)
   - [Interactive Section](#interactive-section)
 - [Resources](#resources)
 - [Q&A](#qa)
@@ -21,7 +21,7 @@ In this workshop, you will learn about scalable data storage solutions and their
 - Introduction to Scalable Data Storage
 - NoSQL Databases
 - Distributed File Systems
-- Data Lakes
+- Data Leaks
 
 ## Agenda
 1. **Introduction**
@@ -32,7 +32,7 @@ In this workshop, you will learn about scalable data storage solutions and their
    - Overview, use cases, and examples
 4. **Distributed File Systems**
    - Explanation and benefits
-5. **Data Lakes**
+5. **Data Leaks**
    - Definition, architecture, and applications
 6. **Interactive Section**
    - Hands-on activities and exercises
@@ -62,7 +62,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Setting up MongoDB, inserting sample data, and running queries.
 
 ### Distributed File Systems
-![Distributed File Systems](/images/distributed-file-system-diagram.png)
+![Distributed File Systems](https://via.placeholder.com/800x400?text=Distributed+File+Systems)
 - **Definition and explanation**
   - Distributed file systems allow multiple users to access and store files across a network as if they were on a local disk.
 - **Benefits for large-scale data storage**
@@ -73,16 +73,16 @@ In this workshop, you will learn about scalable data storage solutions and their
 - **Applications in autonomous vehicle data management**
   - Storing large volumes of video and sensor data for processing and analysis.
 
-### Data Lakes
-![Data Lakes](https://via.placeholder.com/800x400?text=Data+Lakes)
-- **What is a data lake?**
-  - A data lake is a centralized repository that allows you to store all your structured and unstructured data at any scale.
-- **Architecture of data lakes**
-  - Comprises raw data storage, data processing, and data consumption layers.
-- **How data lakes differ from traditional data storage**
-  - Unlike traditional data warehouses, data lakes can store raw data in its native format until needed.
+### Data Leaks
+![Data Leaks](https://images.unsplash.com/photo-1549923746-c502d488b3ea?fit=crop&w=800&h=400)
+- **What is a data leak?**
+  - A data leak is an unauthorized transmission of data from within an organization to an external destination or recipient.
+- **Causes of data leaks**
+  - Weak security measures, human error, system vulnerabilities, and malicious attacks.
+- **Prevention strategies**
+  - Implementing robust security protocols, regular audits, employee training, and using data leak prevention (DLP) software.
 - **Real-world applications in self-driving car scenarios**
-  - Collecting and storing diverse data types from various sources for advanced analytics and machine learning.
+  - Protecting sensitive vehicle data, such as location information, sensor data, and personal information from unauthorized access.
 
 ### Interactive Section
 ![Interactive Section](https://via.placeholder.com/800x400?text=Interactive+Section)
@@ -93,15 +93,15 @@ In this workshop, you will learn about scalable data storage solutions and their
 - **Activity 2: Working with Distributed File Systems**
   - **Setup**: Install Hadoop and configure HDFS.
   - **File Operations**: Upload a sample dataset and perform basic file operations (copy, move, delete).
-- **Activity 3: Building a Data Lake**
-  - **Structure**: Create a basic data lake architecture using AWS S3.
-  - **Data Loading**: Load different types of data (text, images, logs).
-  - **Analysis**: Use AWS Athena to query the data.
+- **Activity 3: Preventing Data Leaks**
+  - **Setup**: Install and configure DLP software.
+  - **Simulations**: Create scenarios to test the effectiveness of DLP measures.
+  - **Analysis**: Review logs and reports to identify potential vulnerabilities.
 
 ## Resources
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Hadoop Distributed File System Guide](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
-- [Introduction to Data Lakes](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/)
+- [Introduction to Data Leaks](https://www.imperva.com/learn/data-security/data-leak/)
 - [AWS S3 Documentation](https://docs.aws.amazon.com/s3/index.html)
 - [AWS Athena Documentation](https://docs.aws.amazon.com/athena/index.html)
 
