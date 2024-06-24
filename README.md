@@ -74,7 +74,7 @@ In this workshop, you will learn about scalable data storage solutions and their
   - Storing large volumes of video and sensor data for processing and analysis.
 
 ### Data Leaks
-![Data Leaks](https://images.unsplash.com/photo-1549923746-c502d488b3ea?fit=crop&w=800&h=400)
+![Data Leaks](/images/data-leak.webp)
 - **What is a data leak?**
   - A data leak is an unauthorized transmission of data from within an organization to an external destination or recipient.
 - **Causes of data leaks**
