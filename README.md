@@ -4,6 +4,8 @@
 
 Welcome to the Scalable Data Storage Workshop organized for the students at Maple College by Autonomous Vehiculum. This workshop aims to introduce you to scalable data storage solutions and their applications in self-driving car scenarios. Let's dive into the technologies that make scalable data storage possible and explore practical implementations.
 
+[![Play Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://mylambton-my.sharepoint.com/personal/c0894894_mylambton_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fc0894894%5Fmylambton%5Fca%2FDocuments%2FRecordings%2FCall%20with%20Mahakdeep%20and%202%20others%2D20240626%5F120125%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5d8098ac%2D6de3%2D4adb%2Db9f1%2D6f86949cc492)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Agenda](#agenda)
